@@ -1,0 +1,57 @@
+when input size is 100000 : 
+ Time : 31.585000 comaprisons :704982704
+
+when input size is 150000 : 
+ Time : 75.560000 comaprisons :2659990408
+
+when input size is 200000 : 
+ Time : 147.880000 comaprisons :2820030816
+
+when input size is 250000 : 
+ Time : 184.521000 comaprisons :1185103928
+
+when input size is 300000 : 
+ Time : 268.640000 comaprisons :2050177040
+
+when input size is 350000 : 
+ Time : 366.855000 comaprisons :1120282856
+
+when input size is 400000 : 
+ Time : 476.415000 comaprisons :2690388672
+
+when input size is 450000 : 
+ Time : 633.402000 comaprisons :2465527192
+
+when input size is 500000 : 
+ Time : 780.915000 comaprisons :445698416
+
+when input size is 550000 : 
+ Time : 955.546000 comaprisons :925869640
+
+when input size is 600000 : 
+ Time : 1087.483000 comaprisons :3906040864
+
+when input size is 650000 : 
+ Time : 1291.850000 comaprisons :796277496
+
+when input size is 700000 : 
+ Time : 1447.981000 comaprisons :186514128
+
+when input size is 750000 : 
+ Time : 1661.214000 comaprisons :2076750760
+
+when input size is 800000 : 
+ Time : 1891.081000 comaprisons :2172020096
+
+when input size is 850000 : 
+ Time : 2256.711000 comaprisons :472322136
+
+when input size is 900000 : 
+ Time : 2471.627000 comaprisons :1272624176
+
+when input size is 950000 : 
+ Time : 3492.636000 comaprisons :277958920
+
+when input size is 1000000 : 
+ Time : 3001.768000 comaprisons :1783293664
+
